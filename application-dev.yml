@@ -1,5 +1,5 @@
 mysql:
-  user: liubei_koushuisanguo
+  user: liubei_sanguo
 
 person:
-  name: zhangfei_koushuisanguo
+  name: zhangfei_sanguo
