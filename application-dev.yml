@@ -1,5 +1,2 @@
-mysql:
-  user: liubei_sanguo
-
-person:
-  name: zhangfei_sanguo
+company:
+  slogan: 中国梦！
